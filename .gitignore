@@ -1,0 +1,4 @@
+# Never commit personal PDFs or local secrets
+*.pdf
+.env
+.DS_Store
